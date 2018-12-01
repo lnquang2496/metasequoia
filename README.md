@@ -1,8 +1,8 @@
-# metasequoia 4.6.6\
+# metasequoia 4.6.6
 USJ1ZE-M4FY77-5YYMZ\
 9N1-N9N
 
-# pepakura 4.06a\
+# pepakura 4.06a
 Using HxD program to change these file\
 address: value  -> new value
 14B93  : 894108 -> 909090\
